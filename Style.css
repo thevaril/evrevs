@@ -1,0 +1,63 @@
+.logo {
+    
+    width: 50%
+        
+}
+
+body {
+    
+    text-align: center;
+    background-color: indianred;
+    
+        
+}
+
+h1 {
+    
+    color : aliceblue;
+    font-family: 'ZCOOL KuaiLe', cursive;
+        
+}
+
+p {
+    
+    color :aliceblue;
+    font-size : 20px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+h2 {
+    
+    color : aliceblue;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    
+        
+        
+}
+h3 {
+    
+    color : aliceblue;
+    font-family: 'ZCOOL KuaiLe', cursive;
+        
+}h4 {
+    
+    color : aliceblue;
+    font-family: 'ZCOOL KuaiLe', cursive;
+        
+}h5 {
+    
+    color : aliceblue;
+    font-family: 'ZCOOL KuaiLe', cursive;
+        
+}h6 {
+    
+    color : aliceblue;
+    font-family: 'ZCOOL KuaiLe', cursive;
+        
+}
+
+.popuptext {
+    
+    color :crimson;
+}
+
